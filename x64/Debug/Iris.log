@@ -1,0 +1,599 @@
+﻿  dllmain.cpp
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Globals.h(159,80): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Globals.h(159,80): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Globals.h(159,80): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Globals.h(159,80): warning C4244:             T=short
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Globals.h(159,80): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ColorUtil.h(10,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ColorUtil.h(10,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ColorUtil.h(10,112): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ColorUtil.h(10,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ColorUtil.h(10,167): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ColorUtil.h(10,151): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ColorUtil.h(10,222): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ColorUtil.h(10,206): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ColorUtil.h(10,196): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ColorUtil.h(10,141): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ColorUtil.h(10,86): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ColorUtil.h(10,31): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Game\MinecraftUIRenderContext\MinecraftUIRenderContext.h(56,22): warning C4552: '*': result of expression not used
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(201,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(209,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(209,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(243,18): warning C4244: 'initializing': conversion from '_Rep' to 'float', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(243,18): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(243,18): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(243,18): warning C4244:             _Rep=__int64
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(243,18): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(252,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(252,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(275,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(275,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(363,14): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(363,14): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(363,14): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(363,14): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(363,14): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(364,14): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(364,14): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(364,14): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(364,14): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(364,14): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(387,14): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(387,14): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(387,14): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(387,14): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(387,14): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(388,14): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(388,14): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(388,14): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(388,14): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\RenderUtil.h(388,14): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ImRenderUtil.h(45,106): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ImRenderUtil.h(45,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ImRenderUtil.h(83,130): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Network\NetworkUtil.h(19,46): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Network\NetworkUtil.h(19,38): warning C4267: 'initializing': conversion from 'size_t' to 'const DWORD', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Game\ClientInstance\Actor\Actor.h(687,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Game\ClientInstance\Actor\Actor.h(688,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ParticleUtil.h(31,53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ParticleUtil.h(32,53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ParticleUtil.h(35,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ParticleUtil.h(52,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ParticleUtil.h(110,53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ParticleUtil.h(111,53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ParticleUtil.h(114,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ParticleUtil.h(129,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ParticleUtil.h(207,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ParticleUtil.h(233,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Notification\Notification.h(23,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Notification\Notification.h(24,143): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Notification\Notification.h(25,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Notification\Notification.h(30,138): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Notification\Notification.h(30,138): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Notification\Notification.h(30,138): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Notification\Notification.h(30,138): warning C4244:             T=float
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Notification\Notification.h(30,138): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Notification\Notification.h(36,124): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Notification\Notification.h(39,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,103): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,103): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,103): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,103): warning C4244:             T=float
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,103): warning C4244:         ]
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,103): warning C4244:         and
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,103): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,103): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,103): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,81): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,81): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,81): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,81): warning C4244:             T=float
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,81): warning C4244:         ]
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,81): warning C4244:         and
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,81): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,81): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,81): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,57): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,57): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,57): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,57): warning C4244:             T=float
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,57): warning C4244:         ]
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,57): warning C4244:         and
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,57): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,57): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(20,57): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,92): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,92): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,92): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,92): warning C4244:             T=float
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,92): warning C4244:         ]
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,92): warning C4244:         and
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,92): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,92): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,92): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,70): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,70): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,70): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,70): warning C4244:             T=float
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,70): warning C4244:         ]
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,70): warning C4244:         and
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,70): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,70): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,70): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,46): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,46): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,46): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,46): warning C4244:             T=float
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,46): warning C4244:         ]
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,46): warning C4244:         and
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,46): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,46): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(23,46): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(34,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(34,76): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(34,76): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(34,76): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(34,76): warning C4244:         ]
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(34,76): warning C4244:         and
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(34,76): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(34,76): warning C4244:             T=float
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(34,76): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(34,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(34,63): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(34,63): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(34,63): warning C4244:             T=float
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(34,63): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(34,44): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(34,44): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(34,44): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(34,44): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(34,44): warning C4244:         ]
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(34,44): warning C4244:         and
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(34,44): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(34,44): warning C4244:             T=float
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\TopCommand.h(34,44): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\ExpCommand.h(22,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Command\Commands\LevelCommand.h(46,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Hook\Hooks\DirectX\DirectXHook.h(527,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Hook\Hooks\DirectX\DirectXHook.h(527,62): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Hook\Hooks\DirectX\DirectXHook.h(527,62): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Hook\Hooks\DirectX\DirectXHook.h(527,62): warning C4244:             T=float
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Hook\Hooks\DirectX\DirectXHook.h(527,62): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Hook\Hooks\DirectX\DirectXHook.h(527,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Hook\Hooks\DirectX\DirectXHook.h(527,55): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Hook\Hooks\DirectX\DirectXHook.h(527,55): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Hook\Hooks\DirectX\DirectXHook.h(527,55): warning C4244:             T=float
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Hook\Hooks\DirectX\DirectXHook.h(527,55): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Hook\Hooks\Keymap\MouseHook.h(27,37): warning C4804: '<': unsafe use of type 'bool' in operation
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Hook\Hooks\Keymap\MouseHook.h(50,29): warning C4804: '<': unsafe use of type 'bool' in operation
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Hook\Hooks\SwingHook.h(14,121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Hook\Hooks\SwingHook.h(26,126): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Hook\Hooks\SwingHook.h(37,115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Hook\Hooks\SwingHook.h(73,12): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Hook\Hooks\SplashHook.h(20,87): warning C4244: 'return': conversion from 'R' to 'int', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Hook\Hooks\SplashHook.h(20,87): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Hook\Hooks\SplashHook.h(20,87): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Hook\Hooks\SplashHook.h(20,87): warning C4244:             R=float
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Hook\Hooks\SplashHook.h(20,87): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ItemModel.h(20,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ItemModel.h(21,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ArrayList.h(58,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ClickGUIManager.h(45,40): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ClickGUIManager.h(46,62): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\IrisGUI.h(97,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\IrisGUI.h(127,139): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\IrisGUI.h(134,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\IrisGUI.h(154,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\IrisGUI.h(175,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\IrisGUI.h(323,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(43,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(62,169): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(62,169): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(62,169): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(62,169): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(62,169): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(62,134): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(62,134): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(62,134): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(62,134): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(62,134): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(62,92): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(62,92): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(62,92): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(62,92): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(62,92): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(62,69): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(62,69): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(62,69): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(62,69): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(62,69): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,187): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,187): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,187): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,187): warning C4244:             T=float
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,187): warning C4244:         ]
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,187): warning C4244:         and
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,187): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,187): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,187): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,150): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,150): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,150): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,150): warning C4244:             T=float
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,150): warning C4244:         ]
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,150): warning C4244:         and
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,150): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,150): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,150): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,113): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,113): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,113): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,113): warning C4244:             T=float
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,113): warning C4244:         ]
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,113): warning C4244:         and
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,113): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,113): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,113): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,76): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,76): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,76): warning C4244:             T=float
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,76): warning C4244:         ]
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,76): warning C4244:         and
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,76): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,76): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,76): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(99,38): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ModernGUI.h(67,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ModernGUI.h(95,29): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ModernGUI.h(103,49): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ModernGUI.h(103,54): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ModernGUI.h(112,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ClickGUI.h(34,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\Changelog.h(49,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\Changelog.h(50,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\Changelog.h(70,205): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Movement\Speed.h(11,83): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Movement\Speed.h(12,67): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\World\Scaffold.h(102,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\World\Scaffold.h(103,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\World\Scaffold.h(104,32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\World\Scaffold.h(105,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\World\Scaffold.h(105,63): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\World\Scaffold.h(105,63): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\World\Scaffold.h(105,63): warning C4244:             T=float
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\World\Scaffold.h(105,63): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\World\Scaffold.h(105,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\World\Scaffold.h(105,60): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\World\Scaffold.h(105,60): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\World\Scaffold.h(105,60): warning C4244:             T=float
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\World\Scaffold.h(105,60): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\World\Scaffold.h(105,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\World\Scaffold.h(105,57): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\World\Scaffold.h(105,57): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\World\Scaffold.h(105,57): warning C4244:             T=float
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\World\Scaffold.h(105,57): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector4.h(81,52): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector4.h(81,52): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector4.h(81,52): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector4.h(81,52): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector4.h(81,52): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector4.h(81,52):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(62,26):
+  	see reference to class template instantiation 'Vector4<int>' being compiled
+  	C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector4.h(79,27):
+  	while compiling class template member function 'Vector4<int> Vector4<int>::scaleToPoint(const Vector4<int> &,float)'
+  		C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(63,17):
+  		see the first reference to 'Vector4<int>::scaleToPoint' in 'ChronosGUI::render'
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector4.h(81,12): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector4.h(81,12): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector4.h(81,12): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector4.h(81,12): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector4.h(81,12): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector4.h(80,69): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector4.h(80,69): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector4.h(80,69): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector4.h(80,69): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector4.h(80,69): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector4.h(80,29): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector4.h(80,29): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector4.h(80,29): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector4.h(80,29): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector4.h(80,29): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector2.h(35,26): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector2.h(35,26): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector2.h(35,26): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector2.h(35,26): warning C4244:             T=float
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector2.h(35,26): warning C4244:         ]
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector2.h(35,26): warning C4244:         and
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector2.h(35,26): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector2.h(35,26): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector2.h(35,26): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector2.h(35,26):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector2.h(114,2):
+  	see reference to class template instantiation 'Vector2<T>' being compiled
+  	C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector2.h(108,1):
+  	see reference to class template instantiation 'Vector2<float>' being compiled
+  	C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector2.h(33,15):
+  	while compiling class template member function 'Vector2<int> Vector2<float>::ToInt(void)'
+  		C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\3DRenderUtil.h(46,29):
+  		see the first reference to 'Vector2<float>::ToInt' in 'ThreeUtil::DrawLine'
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector2.h(35,23): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector2.h(35,23): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector2.h(35,23): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector2.h(35,23): warning C4244:             T=float
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector2.h(35,23): warning C4244:         ]
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector2.h(35,23): warning C4244:         and
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector2.h(35,23): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector2.h(35,23): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\SDK\GameCore\Math\Vector2.h(35,23): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ImRenderUtil.h(58,68): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ImRenderUtil.h(58,68): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ImRenderUtil.h(58,68): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ImRenderUtil.h(58,68): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ImRenderUtil.h(58,68): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ImRenderUtil.h(58,68):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ChronosGUI.h(66,31):
+  	see reference to function template instantiation 'void ImRenderUtil::fillRectangle<int>(Vector4<int>,const UIColor &,float,float)' being compiled
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ImRenderUtil.h(58,61): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ImRenderUtil.h(58,61): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ImRenderUtil.h(58,61): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ImRenderUtil.h(58,61): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ImRenderUtil.h(58,61): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ImRenderUtil.h(58,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ImRenderUtil.h(58,46): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ImRenderUtil.h(58,46): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ImRenderUtil.h(58,46): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ImRenderUtil.h(58,46): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ImRenderUtil.h(58,39): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ImRenderUtil.h(58,39): warning C4244:         with
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ImRenderUtil.h(58,39): warning C4244:         [
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ImRenderUtil.h(58,39): warning C4244:             T=int
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ImRenderUtil.h(58,39): warning C4244:         ]
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Util\Render\ColorUtil.h(161): warning C4715: 'ColorUtil::getClientColor': not all control paths return a value
+C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\Iris\Module\Modules\Visual\ClickGUI\ClickGUIManager.h(48): warning C4715: 'ClickGUIManager::getEaseAnim': not all control paths return a value
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  Generating Code...
+  Iris.vcxproj -> C:\Users\Dbv40\Downloads\pub niggerclient\Nigg-Clientanal-master\x64\Debug\Iris.dll
